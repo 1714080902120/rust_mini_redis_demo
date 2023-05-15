@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "my-redis-server",
+  "my-redis-client",
+  "echo-server",
+  "mini_tokio"
+]
